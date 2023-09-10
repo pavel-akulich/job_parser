@@ -5,6 +5,9 @@ def user_interaction():
     """Function for interacting with the user via the console"""
 
     vacancies = []
+
+    print('Welcome to the console job search tool')
+
     while True:
         print("Select an action:")
         print("1 - Vacancy search")
