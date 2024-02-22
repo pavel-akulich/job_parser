@@ -5,7 +5,7 @@ import requests
 from src.abstract_classes.abstract_api import GeneralAPI
 from src.models.vacancy import Vacancy
 
-API_KEY = os.environ.get('SJ_API_KEY')
+API_KEY = os.getenv('SJ_API_KEY')
 
 
 class HeadHunterAPI(GeneralAPI):

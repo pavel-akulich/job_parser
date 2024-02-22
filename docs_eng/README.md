@@ -51,6 +51,6 @@ Before launching the application, familiarize yourself with how to use it.
 3. Follow the instructions in the console to perform the selected operation.
 
 ## Notes
-- The project was developed as a training assignment and can be further developed and expanded for wider use.
+- The project can be further developed and expanded for wider use.
 - To work with API platforms `hh.ru ` and `superjob.ru ` the corresponding API keys are required to be added to the environment variables.
 - The `API_KEY` variable stores the API key for the platform `superjob.ru`.
